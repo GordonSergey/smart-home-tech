@@ -28,18 +28,19 @@
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka-clients</artifactId>
+            <version>3.9.1</version>
         </dependency>
         <!-- Avro -->
         <dependency>
             <groupId>org.apache.avro</groupId>
             <artifactId>avro</artifactId>
-            <version>${avro.version}</version>
+            <version>1.11.4</version>
         </dependency>
-        <!-- PostgreSQL -->
+        <!-- PostgresSQL -->
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.7.4</version>
+            <version>42.7.7</version>
         </dependency>
         <!-- gRPC -->
         <dependency>
@@ -91,6 +92,7 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
+            <version>1.5.13</version>
         </dependency>
         <!-- Spring Cloud -->
         <dependency>
