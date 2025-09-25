@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package ru.yandex.practicum.kafka.telemetry.aggregator;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
