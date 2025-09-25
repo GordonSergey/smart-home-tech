@@ -1,4 +1,4 @@
--- Create schema for warehouse
+--- Create schema for warehouse
 CREATE SCHEMA IF NOT EXISTS warehouse;
 
 DROP TABLE IF EXISTS warehouse.products;
